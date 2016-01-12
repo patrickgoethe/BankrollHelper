@@ -1,0 +1,19 @@
+{
+  "name": "BankrollHelper",
+  "version": "1.0.0",
+  "description": "a poker tool",
+  "author": "Patrick Østermann Goethe",
+  "license": "ISC",
+  "main": "pathToMain",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "lodash": "^3.10.1"
+  },
+  "scripts": {
+    "test": "tryMe"
+  }
+  
+}
